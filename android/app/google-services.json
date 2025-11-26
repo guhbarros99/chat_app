@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "814164632410",
+    "project_id": "logintii09senac",
+    "storage_bucket": "logintii09senac.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814164632410:android:a06551e0eacafc121f8963",
+        "android_client_info": {
+          "package_name": "br.com.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAs17pd0JJwb8upsjytXXgCqbfMxnns-2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
