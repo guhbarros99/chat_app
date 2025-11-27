@@ -18,7 +18,8 @@ class LoadingPage extends StatelessWidget {
             Text(
               'Carregando...',
               style: TextStyle(
-                color: Theme.of(context).primaryTextTheme.titleLarge?.color,
+                color: Theme.of(context).primaryTextTheme.titleLarge
+                ?.color,
               ),
             ),
           ],
